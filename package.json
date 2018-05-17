@@ -1,14 +1,14 @@
 {
-  "name": "null-logger",
+  "name": "null-logger-light",
   "version": "0.1.0",
   "description": "a null logger stand-in for bunyan",
   "main": "src",
-  "homepage": "https://github.com/uber-foo/null-logger",
-  "bugs": "https://github.com/uber-foo/null-logger/issues",
+  "homepage": "https://github.com/uber-foo/null-logger-light",
+  "bugs": "https://github.com/uber-foo/null-logger-light/issues",
   "author": "Sean Bruton <sean@uberfoo.net>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uber-foo/null-logger.git"
+    "url": "https://github.com/uber-foo/null-logger-light.git"
   }
 }
